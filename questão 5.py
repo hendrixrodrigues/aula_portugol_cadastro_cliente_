@@ -1,0 +1,1 @@
+print("o valor da expressao",5*0.6-1/2*9.81*0.6**2)
